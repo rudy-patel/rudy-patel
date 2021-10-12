@@ -1,5 +1,5 @@
 ## Hi, I’m Rudy 👋🏽
-I'm a Computer Engineering student at uAlberta, currently working as a Software Engineer Intern at Shareworks by Morgan Stanley!
+I'm a Computer Engineering student at uAlberta, I've previously worked as a Software Engineer Intern at Shareworks by Morgan Stanley!
 <!---
 rudy-patel/rudy-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
