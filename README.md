@@ -1,5 +1,5 @@
 ## Hi, I’m Rudy 👋🏽
-I'm a Software Engineer working at Amazon on cloud computing solutions for Amazon Web Services (AWS). I've previously worked as a Software Engineer at Shareworks by Morgan Stanley as well!
+I'm a Software Engineer working at Amazon on cloud computing solutions for Amazon Web Services (AWS).
 <!---
 rudy-patel/rudy-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
