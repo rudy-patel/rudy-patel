@@ -1,5 +1,5 @@
 ## Hi, I’m Rudy 👋🏽
-I'm a Software Engineer working at Amazon on cloud computing solutions for Amazon Web Services (AWS).
+I'm a Software Engineer based out of Vancouver, BC, Canada. Previously, I've worked at Amazon on cloud computing solutions for Amazon Web Services (AWS) and Morgan Stanley where I've helped build out a wealth management platform.
 <!---
 rudy-patel/rudy-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
