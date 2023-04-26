@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hiring 👨🏽‍💻
-At this time, I am not actively looking for new roles. However, I'm always open to chat about new opportunities, here is my ideal workplace:
+I'm always open to chat about new opportunities, here is my ideal workplace:
 - I enjoy working on an impactful product
 - I like taking ownership and having responsiblity of my work
 - I love having opportunities to learn new things
