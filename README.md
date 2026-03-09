@@ -14,4 +14,4 @@ I'm always open to chat about new opportunities, here is my ideal workplace:
 - I appreciate having the flexibility to work remotely
 
 ### Hit me up! 📫
-Feel free to hit my [email](mailto:itsrudypatel@gmail.com) or check out my [LinkedIn](https://www.linkedin.com/in/itsrudypatel/)!
+Feel free to hit my [email](mailto:itsrudypatel@gmail.com)!
